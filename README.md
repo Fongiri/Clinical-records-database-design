@@ -1,7 +1,7 @@
 # Clinical-records-database-design
-# 🏥 Clinic Booking System (MySQL Project)
+# Clinic Booking System (MySQL Project)
 
-## 📌 Description
+##  Description
 This project implements a full-featured **Clinic Booking System** database using MySQL. It manages the records for:
 - Patients
 - Doctors & their specializations
